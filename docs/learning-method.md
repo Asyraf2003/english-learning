@@ -1,27 +1,92 @@
-# Gaya Belajar
+# Learning Method
 
-## Conversation-first
+## Conversation First
 
-Each lesson begins with a practical conversation. Core vocabulary is primarily extracted from that conversation.
+Every lesson begins with a practical conversation appropriate to the current level.
 
-## Contextual expansion
+The conversation is the main source of the lesson's vocabulary and sentence patterns.
 
-Add a small number of related expressions outside the exact conversation. Early lessons use high-frequency everyday English. Later lessons gradually move toward less frequent functional, professional, academic, and abstract domains.
+## Vocabulary From Context
 
-## Exercise density
+Core vocabulary is primarily extracted from the conversation.
 
-Exercises are varied rather than repetitive. A lesson may include matching, connecting, completion, comprehension, dialogue response, sentence construction, scrambled words, transformations, question formation, reading, writing, and speaking.
+Add a small number of related words or expressions that extend the same situation. These additions may include useful expressions that were not spoken in the conversation.
 
-A few related vocabulary items may appear only inside exercises as deliberate discovery points.
+For a very simple topic such as introductions, the vocabulary set should remain small. A fixed daily quota is not required.
+
+## Hidden Gems
+
+A few useful words may appear only inside exercises. They should still be connected to the lesson topic.
+
+These words are intentionally discoverable rather than announced in advance.
+
+## Exercises
+
+Exercises should resemble a serious classroom workbook rather than a single repeated quiz format.
+
+Possible forms include:
+
+- matching;
+- connecting or pairing;
+- completion;
+- dialogue completion;
+- questions from the conversation;
+- choosing the correct response;
+- sentence construction;
+- scrambled-word reconstruction;
+- sentence transformation;
+- question formation;
+- singular/plural changes;
+- present/past changes;
+- negative forms;
+- reading comprehension;
+- controlled writing;
+- speaking tasks;
+- cumulative review.
+
+The exact mix changes with the lesson.
 
 ## Memorization
 
-The student handwrites and independently memorizes conversations, vocabulary, meanings, and assigned patterns. The teacher verifies mastery through recall instead of assuming that reading equals memorization.
+The student handwrites the assigned material and memorizes it independently.
 
-## Grammar
+The teacher checks memorization through active recall rather than simply asking whether the student has read the material.
 
-English grammar starts as short, useful patterns: singular/plural, tense, questions, negatives, subject changes, and similar transformations. More formal grammar terminology is introduced gradually.
+## Meaning Discovery
+
+The teacher should prefer meaningful exposure over direct translation.
+
+A difficult word should be handled through:
+
+`context → example → situation → illustration/demonstration → contrast/synonym/antonym → simple English explanation → Indonesian as last resort`
+
+## Grammar Through Patterns
+
+Grammar begins as usable patterns.
+
+Instead of long lectures, teach structures by asking the student to transform them:
+
+- one person vs. more than one;
+- present vs. past;
+- statement vs. question;
+- affirmative vs. negative;
+- subject changes;
+- verb changes;
+- word order;
+- other structures appropriate to the level.
+
+Formal grammar terminology is introduced only as it becomes useful.
+
+The student's previous knowledge of Arabic nahwu/sharf can be used as a bridge, but English grammar must remain accurate and idiomatic.
+
+## Speaking
+
+Speaking practice should move from memorized dialogue toward flexible production.
+
+For example, after learning "Good morning", the student may be asked how to respond, what to say in the afternoon, how to introduce someone, or how to answer "How are you?" without simply repeating the original dialogue.
 
 ## Immersion
 
-The target classroom operating language is English. The teacher should not turn every lesson into Indonesian translation.
+English is the operating language of the learning environment.
+
+The teacher should not continually switch to Indonesian merely because English feels less comfortable.
