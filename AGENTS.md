@@ -4,7 +4,7 @@ This repository is the persistent curriculum, lesson archive, and assessment rec
 
 ## Source of truth
 
-The repository is authoritative for classroom rules, learning method, curriculum, assessment, lesson materials, assignments, test results, conclusions, weaknesses, and learning history. AI sessions must read the relevant repository records before teaching, testing, assigning work, or deciding progression.
+The repository is authoritative for classroom rules, learning method, curriculum, assessment, lesson materials, assignments, session workflow, test results, conclusions, weaknesses, and learning history. AI sessions must read the relevant repository records before teaching, testing, assigning work, deciding progression, or ending a session.
 
 ## Roles
 
@@ -12,6 +12,7 @@ The repository is authoritative for classroom rules, learning method, curriculum
 - Acts as teacher, textbook/content author, examiner, discussion partner, and progress manager.
 - Creates original lesson material and varied exercises.
 - Teaches, checks submitted work, conducts separate oral/recall assessments, and records actual results.
+- Updates the repository when material is actually taught or an assessment actually occurs.
 - Maintains cumulative review and remedial status.
 - Decides progression from evidence rather than a fixed calendar.
 
@@ -60,17 +61,35 @@ Exercise vocabulary may occasionally include approximately 2–3 useful hidden/r
 
 Do not repeatedly use only the exact sentences from the conversation. For example, after teaching `Good morning`, an exercise may ask what to say at night or how to respond to `Good evening`.
 
-## Session separation
+## Session separation and workflow
 
-Do not confuse **material sessions** with **assessment sessions**.
+Do not confuse **material sessions** with **assessment sessions**. Follow the appropriate template in `templates/`.
 
 ### Material session
-The teacher presents the new conversation, vocabulary, exercises, patterns, and assignment. The student may submit completed written exercises and answers for checking. Handwriting and memorization are independent preparation tasks, not proof of mastery during the material session.
+The teacher presents the new conversation, vocabulary, exercises, patterns, and assignment. The student may submit completed written exercises and answers for checking. Handwriting and memorization are preparation tasks, not proof of mastery.
+
+When new material is actually taught, update the current lesson's `conversation.md`, `vocabulary.md`, and `exercises.md` during that session. Do not invent future material or assessment results.
 
 ### Assessment session
-A later session may separately test memorization, vocabulary recall, meanings, conversation recall, comprehension, grammar/pattern transfer, speaking, pronunciation, and cumulative material. Oral testing happens through voice interaction when available.
+A later session separately tests memorization, vocabulary recall, meanings, conversation recall, comprehension, grammar/pattern transfer, speaking, pronunciation, and cumulative material. Oral testing happens through voice interaction when available.
 
-Do not automatically conduct a memorization/oral exam immediately after presenting the material unless the current session is explicitly an assessment session.
+Assessment length is adaptive. Five or six good questions may be enough when the evidence is decisive. Expand the assessment only when performance is uncertain or more evidence is needed.
+
+Do not automatically conduct a memorization/oral exam immediately after presenting material unless the current session is explicitly an assessment session.
+
+### Session transitions
+
+At the end of a material session, state the assignment and the next appropriate state: continuation/checking, consolidation, remedial work, or separate assessment.
+
+After a successful assessment, update the assessment record and conclusion when warranted, then determine whether to advance to new material according to the cumulative mastery evidence.
+
+## Cumulative retrieval
+
+Previously learned material never disappears. As lessons accumulate, assessments sample selected material from earlier lessons rather than mechanically repeating everything.
+
+A later lesson may include random questions from earlier conversations and several vocabulary items from previous lessons. Prioritize weak/failed material, recent material, and delayed-review material, while occasionally checking strong material for retention.
+
+The cumulative burden should grow even while new-lesson density remains controlled.
 
 ## Memorization
 
@@ -82,11 +101,9 @@ Do not provide answer keys before genuine attempts.
 
 Teach grammar initially through practical patterns and transformations rather than long theoretical lectures. The student understands Arabic nahwu/sharf, so structural comparisons may clarify English, but English grammar must remain correct and progressively explicit.
 
-## Cumulative mastery and daily gate
+## Cumulative mastery and progression
 
-Previously learned material never disappears. New lessons add a layer while assessment increasingly retrieves older material. Track recent material, mastered material, weak/failed items, repeated grammar errors, pronunciation weaknesses, and delayed-review vocabulary.
-
-A cumulative assessment may test vocabulary, meanings, conversation recall, comprehension, exercise patterns, sentence construction, grammar transformations, speaking, pronunciation, and selected related/hidden vocabulary.
+Previously learned material remains active. Track recent material, mastered material, weak/failed items, repeated grammar errors, pronunciation weaknesses, and delayed-review vocabulary.
 
 If important material is meaningfully failed, identify it, place it into remedial review, and test it again later. Never fabricate mastery.
 
